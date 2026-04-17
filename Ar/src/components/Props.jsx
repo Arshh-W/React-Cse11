@@ -1,0 +1,1 @@
+// Props - short for properties, are ready-only inputs passed from parent components.
