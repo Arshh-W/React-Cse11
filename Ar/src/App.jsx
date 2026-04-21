@@ -5,16 +5,14 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import  Greeting from './components/Greeting.jsx'
 import Student from './components/Student.jsx'
+import Counter from './components/Counter.jsx'
 
 function App() {
 
 
   return (
     <>
-      <Greeting/>
-      <Student name={'Arsh Rana'} course={'cse'} marks={90}/>
-      <Student name={'Arsh Rana'} course={'cse'} marks={90}/>
-      <Student name={'Arsh Rana'} course={'cse'} marks={90}/>
+    <Counter/>
     </>
   )
 };
